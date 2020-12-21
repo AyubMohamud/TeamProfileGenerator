@@ -109,5 +109,4 @@ The project must generate a `team.html` page in the `output` directory, that dis
 
 ### Demo 
 
-![Employee Summary 1](./Assets/teamprofile.png)
-
+![Employee Summary 1](./Assets/teamprofile.gif)
